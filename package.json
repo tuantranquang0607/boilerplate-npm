@@ -11,11 +11,11 @@
 		"type": "git",
 		"url": "git+https://github.com/freeCodeCamp/boilerplate-npm.git"
 	},
-	"version": "1.0.0",
+	"version": "1.2.0",
 	"description": "Mark told me to get a certificate for back end dev from freeCodeCamp but i couldn't submit because i had no idea what they meant",
 	"keywords": ["internship", "numb", "nervous", "freecodecamp"],
 	"author": "Tuan Tran",
-	"license": "ISC",
+	"license": "MIT",
 	"bugs": {
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
 	},
